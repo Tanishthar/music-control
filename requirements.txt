@@ -1,0 +1,9 @@
+PyQt5
+opencv-python
+mediapipe=0.10.11
+numpy
+pygame
+sounddevice
+soundfile
+pyautogui
+protobuf
