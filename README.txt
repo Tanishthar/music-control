@@ -1,4 +1,4 @@
-# 🎧 Gesture-Based Music Controller
+## 🎧 Gesture-Based Music Controller
 
 Control your music with just your hands — no keyboard, no mouse, just gestures!  
 Built using Python, PyQt5, MediaPipe, and OpenCV, this desktop app lets you play, pause, control volume, adjust speed, and even mix two songs using real-time hand tracking.
@@ -35,13 +35,13 @@ Built using Python, PyQt5, MediaPipe, and OpenCV, this desktop app lets you play
 
 ## 📦 Installation
 
-### 🔧 Prerequisites
+## 🔧 Prerequisites
 
 - Python 3.11+
 - A webcam
 - A virtual environment (recommended)
 
-### 🧪 Setup
+## 🧪 Setup
 
 ```bash
 git clone https://github.com/yourusername/gesture-music-controller.git
