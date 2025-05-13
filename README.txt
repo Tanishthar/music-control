@@ -50,3 +50,4 @@ python -m music_venv venv
 music_venv\Scripts\activate  # On Windows
 pip install -r requirements.txt
 python music_control_ui.py
+```
